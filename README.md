@@ -12,7 +12,7 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou estudante de **Direito** na Universidade Una e **Analise e desenvolvimento de sistemas** na Newton Paiva, com dois estágios simultâneos na área de tecnologia jurídica. Trabalho no **Tribunal Regional do Trabalho da 3ª Região (TRT-3)** com automação de processos e na **Carvalho Furtado Advogados** em LegalTech e forense digital.
+Sou estudante de **Direito** na Universidade Una e **Tecnologia** na Newton Paiva, com dois estágios simultâneos na área de tecnologia jurídica. Trabalho no **Tribunal Regional do Trabalho da 3ª Região (TRT-3)** com automação de processos e na **Carvalho Furtado Advogados** em LegalTech e forense digital.
 
 Tenho foco em unir o mundo jurídico com tecnologia — automação de workflows, integração com APIs judiciais, IA aplicada ao direito e cloud com Azure.
 
@@ -63,7 +63,7 @@ Tenho foco em unir o mundo jurídico com tecnologia — automação de workflows
 
 ### 🐍 Contribuições
 
-![github-snake](https://github.com/PaolloSc/PaolloSc/raw/output/github-contribution-grid-snake.svg)
+![github-snake](https://raw.githubusercontent.com/PaolloSc/PaolloSc/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -72,9 +72,9 @@ Tenho foco em unir o mundo jurídico com tecnologia — automação de workflows
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&letterSpacing=0.2rem&duration=1200&pause=500&color=4FC3F7&center=true&vCenter=true&repeat=false&width=450&lines=;+;Contato)](https://git.io/typing-svg)
 
 [![Email](https://img.shields.io/badge/Email-0A192F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paollosancheztjmg@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A192F)](https://www.linkedin.com/in/www.linkedin.com/in/paollo-sanchez-688a26326/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A192F)](https://www.linkedin.com/in/paollo-sanchez-688a26326/)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=SEU_USERNAME&style=for-the-badge&color=0f3460)](https://github.com/PaolloSc)
+[![Profile Views](https://komarev.com/ghpvc/?username=PaolloSc&style=for-the-badge&color=0f3460)](https://github.com/PaolloSc)
 
 </div>
 

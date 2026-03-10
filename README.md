@@ -63,7 +63,7 @@ Tenho foco em unir o mundo jurídico com tecnologia — automação de workflows
 
 ### 🐍 Contribuições
 
-![github-snake](https://github.com/SEU_USERNAME/SEU_USERNAME/raw/output/github-contribution-grid-snake.svg)
+![github-snake](https://github.com/PaolloSc/PaolloSc/raw/output/github-contribution-grid-snake.svg)
 
 ---
 

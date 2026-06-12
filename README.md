@@ -83,3 +83,5 @@ Curso **Tecnologia** na Newton Paiva e **Direito** na Una — essa combinação 
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer)
+
+<!-- -->

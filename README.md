@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&letterSpacing=0.2rem&duration=1300&pause=10&color=4FC3F7&center=true&vCenter=true&repeat=false&width=500&height=50&lines=Paollo+Sanchez)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&letterSpacing=0.2rem&duration=1000&pause=1800&color=B0BEC5&center=true&vCenter=true&repeat=false&width=600&lines=Desenvolvedor+Full-Stack;Python+%7C+TypeScript+%7C+React+%7C+Azure;Automa%C3%A7%C3%A3o+%7C+IA+%7C+Integra%C3%A7%C3%B5es)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&letterSpacing=0.2rem&duration=1000&pause=1800&color=B0BEC5&center=true&vCenter=true&repeat=false&width=600&lines=Desenvolvedor+Back-End;Python+%7C+Node+%7C+PostgreSQL+%7C+Azure;Automa%C3%A7%C3%A3o+%7C+APIs+%7C+IA)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou **desenvolvedor full-stack** com foco em automação, integrações com APIs e IA aplicada a problemas reais. Atuo em dois estágios de tecnologia: no **Tribunal Regional do Trabalho da 3ª Região (TRT-3)**, com automação de processos, e na **Carvalho Furtado Advogados**, onde construo soluções de ponta a ponta — de pipelines de automação com LLMs a plataformas web completas.
+Sou **desenvolvedor back-end** com foco em automação, APIs, integrações e IA aplicada a problemas reais. Atuo em dois estágios de tecnologia: no **Tribunal Regional do Trabalho da 3ª Região (TRT-3)**, com automação de processos, e na **Carvalho Furtado Advogados**, onde construo soluções de ponta a ponta — pipelines de automação com LLMs, integrações entre sistemas e os bastidores de plataformas web.
 
 Curso **Tecnologia** na Newton Paiva e **Direito** na Una — essa combinação me dá um diferencial raro: entender profundamente o domínio do negócio para o qual desenvolvo. Gosto de transformar processos manuais em software: workflows automatizados, integrações (Microsoft Graph, APIs judiciais), IA em produção e cloud com Azure.
 
@@ -42,7 +42,7 @@ Curso **Tecnologia** na Newton Paiva e **Direito** na Una — essa combinação 
 ### 🤖 O que estou construindo
 
 - 🏛️ **Pipeline de automação processual** — monitoramento de e-mails do MS Forms + auto-registro no LegalOne via browser automation com LLM local (LM Studio)
-- ⚽ **Bolão da Copa 2026** — app full-stack (React/TypeScript + Supabase) com placar ao vivo sincronizado por Edge Functions, cron e RLS
+- ⚽ **Bolão da Copa 2026** — back-end no Supabase com placar ao vivo: Edge Functions, cron, RLS e sincronização automática de resultados
 - ⚖️ **IA aplicada ao direito** — integração de plataformas como Jus IA, Jurídico AI, ChatADV e modelos próprios para peticionamento e análise documental
 - 🔍 **Onyx + SharePoint** — indexação de documentos via Microsoft Graph API para busca semântica interna
 - 🔐 **LGPD Compliance Platform** — sistema de adequação automatizada com linking de usuários por tenant ID e domínio de e-mail

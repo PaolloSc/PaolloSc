@@ -12,7 +12,7 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou **desenvolvedor Python** com foco em **IA aplicada ao Direito**: automação, APIs, integrações e LLMs em produção para o setor jurídico. Sou **Desenvolvedor Júnior na Carvalho Furtado Advogados** (estagiário desde 2024, efetivado em jun/2026), onde construo soluções de ponta a ponta, e estagiário de tecnologia no **Tribunal Regional do Trabalho da 3ª Região (TRT-3)**, com automação de processos.
+Sou **desenvolvedor Python** com foco em **IA aplicada ao Direito**: automação, APIs, integrações e LLMs em produção para o setor jurídico. Sou **Desenvolvedor Júnior na Carvalho Furtado Advogados** (estagiário desde dez/2024, efetivado em jun/2026), onde construo soluções de ponta a ponta, e estagiário de tecnologia no **Tribunal Regional do Trabalho da 3ª Região (TRT-3)**, com automação de processos.
 
 Curso **Tecnologia** na Newton Paiva e **Direito** na Una — essa combinação me dá um diferencial raro: entender profundamente o domínio do negócio para o qual desenvolvo. Gosto de transformar processos manuais em software: workflows automatizados, integrações (Microsoft Graph, APIs judiciais), IA em produção e cloud com Azure.
 
